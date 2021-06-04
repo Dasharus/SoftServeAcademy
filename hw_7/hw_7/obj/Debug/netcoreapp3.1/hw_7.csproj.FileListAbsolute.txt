@@ -1,0 +1,13 @@
+D:\soft\hw_7\hw_7\bin\Debug\netcoreapp3.1\hw_7.exe
+D:\soft\hw_7\hw_7\bin\Debug\netcoreapp3.1\hw_7.deps.json
+D:\soft\hw_7\hw_7\bin\Debug\netcoreapp3.1\hw_7.runtimeconfig.json
+D:\soft\hw_7\hw_7\bin\Debug\netcoreapp3.1\hw_7.runtimeconfig.dev.json
+D:\soft\hw_7\hw_7\bin\Debug\netcoreapp3.1\hw_7.dll
+D:\soft\hw_7\hw_7\bin\Debug\netcoreapp3.1\hw_7.pdb
+D:\soft\hw_7\hw_7\obj\Debug\netcoreapp3.1\hw_7.csprojAssemblyReference.cache
+D:\soft\hw_7\hw_7\obj\Debug\netcoreapp3.1\hw_7.AssemblyInfoInputs.cache
+D:\soft\hw_7\hw_7\obj\Debug\netcoreapp3.1\hw_7.AssemblyInfo.cs
+D:\soft\hw_7\hw_7\obj\Debug\netcoreapp3.1\hw_7.csproj.CoreCompileInputs.cache
+D:\soft\hw_7\hw_7\obj\Debug\netcoreapp3.1\hw_7.dll
+D:\soft\hw_7\hw_7\obj\Debug\netcoreapp3.1\hw_7.pdb
+D:\soft\hw_7\hw_7\obj\Debug\netcoreapp3.1\hw_7.genruntimeconfig.cache

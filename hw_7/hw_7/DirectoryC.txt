@@ -1,0 +1,49 @@
+directories: 
+C:\$Recycle.Bin
+type: System.String
+C:\$WinREAgent
+type: System.String
+C:\Activators
+type: System.String
+C:\Config.Msi
+type: System.String
+C:\data
+type: System.String
+C:\Documents and Settings
+type: System.String
+C:\Intel
+type: System.String
+C:\Java
+type: System.String
+C:\MSOCache
+type: System.String
+C:\OneDriveTemp
+type: System.String
+C:\PerfLogs
+type: System.String
+C:\Program Files
+type: System.String
+C:\Program Files (x86)
+type: System.String
+C:\ProgramData
+type: System.String
+C:\Recovery
+type: System.String
+C:\System Volume Information
+type: System.String
+C:\Users
+type: System.String
+C:\Windows
+type: System.String
+C:\xampp
+type: System.String
+
+files: 
+C:\$WINRE_BACKUP_PARTITION.MARKER
+type: System.String
+C:\DumpStack.log.tmp
+type: System.String
+C:\hiberfil.sys
+type: System.String
+C:\swapfile.sys
+type: System.String

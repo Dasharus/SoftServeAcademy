@@ -1,0 +1,12 @@
+
+
+file name:
+test.txt
+What is in txt:
+this is a test txt file
+
+file name:
+test_two.txt
+What is in txt:
+this is a txt file for testing.
+
