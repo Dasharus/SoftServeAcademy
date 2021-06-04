@@ -1,0 +1,13 @@
+D:\soft\matrixCalculator\matrixCalculator\bin\Debug\netcoreapp3.1\matrixCalculator.exe
+D:\soft\matrixCalculator\matrixCalculator\bin\Debug\netcoreapp3.1\matrixCalculator.deps.json
+D:\soft\matrixCalculator\matrixCalculator\bin\Debug\netcoreapp3.1\matrixCalculator.runtimeconfig.json
+D:\soft\matrixCalculator\matrixCalculator\bin\Debug\netcoreapp3.1\matrixCalculator.runtimeconfig.dev.json
+D:\soft\matrixCalculator\matrixCalculator\bin\Debug\netcoreapp3.1\matrixCalculator.dll
+D:\soft\matrixCalculator\matrixCalculator\bin\Debug\netcoreapp3.1\matrixCalculator.pdb
+D:\soft\matrixCalculator\matrixCalculator\obj\Debug\netcoreapp3.1\matrixCalculator.csprojAssemblyReference.cache
+D:\soft\matrixCalculator\matrixCalculator\obj\Debug\netcoreapp3.1\matrixCalculator.AssemblyInfoInputs.cache
+D:\soft\matrixCalculator\matrixCalculator\obj\Debug\netcoreapp3.1\matrixCalculator.AssemblyInfo.cs
+D:\soft\matrixCalculator\matrixCalculator\obj\Debug\netcoreapp3.1\matrixCalculator.csproj.CoreCompileInputs.cache
+D:\soft\matrixCalculator\matrixCalculator\obj\Debug\netcoreapp3.1\matrixCalculator.dll
+D:\soft\matrixCalculator\matrixCalculator\obj\Debug\netcoreapp3.1\matrixCalculator.pdb
+D:\soft\matrixCalculator\matrixCalculator\obj\Debug\netcoreapp3.1\matrixCalculator.genruntimeconfig.cache
